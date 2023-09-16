@@ -37,5 +37,7 @@ Each new version has a boosted performance (inference speed and mAP score) compa
 
 
 
+![239739723-57391d0f-1848-4388-9f30-88c2fb79233f](https://github.com/itmr97/Arabic-Sing-Language/assets/40148242/d9a64c4e-05d7-4ec0-9094-ce6047b0bef1)
+
 
 
