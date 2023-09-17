@@ -1,7 +1,3 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
-
 nc: 19
 names: ['accident', 'aim_at', 'bandage', 'certificate', 'emergency', 'fixed', 'goverment', 'identity_conformity', 'injury', 'necessary', 'negative_outcome', 'no', 'plate', 'positive_outcome', 'ready', 'slow', 'student', 'support', 'true']
 
